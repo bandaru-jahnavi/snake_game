@@ -1,6 +1,4 @@
-<b>Hey guys..!<br>
-  I am Tharun from sathyabama University<br>
-  This project is mainly using python and opencv.<br></b>
+This project is mainly using python and opencv.<br></b>
 # LiveSNAKEGAME
 
 A Game built using python and computervision(openCV).
@@ -12,6 +10,4 @@ try to est as much food as u can,if u touch the tail thatsit GAMEOVER.  again u 
 
 
 <b>
-#Hope u like the project.<br>
-#Feel free to download the source code and follow for new projects.<br>
-#dont foget to give a star if u like the project.<b>
+
